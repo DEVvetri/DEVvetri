@@ -11,7 +11,7 @@ I enjoy experimenting with new technologies, solving real-world problems, and co
 - **Mobile Development:** Flutter, React Native  
 - **Web Development:** React.js, JavaScript, HTML, CSS  
 - **Backend & APIs:** Node.js, Firebase, REST APIs  
-- **Programming Languages:** Java, Python, Go (Learning), Solidity (Exploring Blockchain)  
+- **Programming Languages:** Java, Python, Dart 
 - **Database & Cloud:** Firebase Firestore, MySQL, MongoDB  
 - **DevOps & Tools:** Git, Fastlane (CI/CD), Postman, VS Code  
 
@@ -20,7 +20,6 @@ I enjoy experimenting with new technologies, solving real-world problems, and co
 ## 🌱 Currently Learning  
 - Advanced Flutter & Clean Architecture (GetX, Riverpod)  
 - React Native for cross-platform apps  
-- Blockchain fundamentals (Smart Contracts, Solidity, Rust)  
 - Go for backend development  
 
 ---
