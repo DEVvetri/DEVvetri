@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vetri (@DEVvetri)
+# 👋 Hi, I'm Vetri
 
 🚀 **Aspiring Software Developer | Mobile & Web Enthusiast**
 
